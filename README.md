@@ -8,6 +8,8 @@ https://velog.io/@gyeongm1n/React-Blog-App
 ### 소스코드
 https://github.com/Gyeongm1n/React-blog-frontend
 
+https://github.com/Gyeongm1n/react-blog-backend
+
 ---------
 ### 1.  회원가입 / 로그인 기능
 - 페이지 컴포넌트: LoginPage.js, RegisterPage.js
