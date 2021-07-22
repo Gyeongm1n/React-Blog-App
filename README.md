@@ -24,5 +24,5 @@ https://velog.io/@gyeongm1n/React-Blog-App
 - 프레젠테이셔널 컴포넌트: PostActionButtons.js, AskRemoveModal.js
 
 -----
-![image](https://user-images.githubusercontent.com/63990390/126593522-bd4d26d5-d80a-4d7a-9181-0c30f903abc0.png)
+![image](https://user-images.githubusercontent.com/63990390/126593609-50c68513-3ba9-463d-8176-2590a896f223.png)
 
